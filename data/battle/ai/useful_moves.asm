@@ -4,6 +4,7 @@
 UsefulMoves:
 	dw DOUBLE_EDGE
 	dw SING
+	dw CONFUSE_RAY
 	dw FLAMETHROWER
 	dw HYDRO_PUMP
 	dw SURF

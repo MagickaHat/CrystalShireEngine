@@ -33,5 +33,4 @@ StallMoves:
 	dw SHARPEN
 	dw CONVERSION
 	dw SUBSTITUTE
-	dw FLAME_WHEEL
 	dw -1 ; end

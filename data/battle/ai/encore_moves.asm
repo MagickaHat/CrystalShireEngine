@@ -27,8 +27,6 @@ EncoreMoves:
 	dw TRIPLE_KICK
 	dw SPIDER_WEB
 	dw MIND_READER
-	dw FLAME_WHEEL
-	dw AEROBLAST
 	dw COTTON_SPORE
 	dw POWDER_SNOW
 	dw -1 ; end
